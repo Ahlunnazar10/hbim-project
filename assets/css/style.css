@@ -1132,8 +1132,8 @@ a:focus {
 .banner-carousel .active .slide-item .image-layer {
 	-webkit-animation-name: slideBgImage;
 	        animation-name: slideBgImage;
-	-webkit-animation-duration: 7000ms;
-	        animation-duration: 7000ms;
+	-webkit-animation-duration: 8000ms;
+	        animation-duration: 8000ms;
 	-webkit-animation-iteration-count: infinite;
 	        animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
@@ -4372,7 +4372,7 @@ a:focus {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url(../images/backgrounds/event-bg-1-1.jpg);
+	background-image: url(../images/hbim/about-us/background.png);
 }
 
 .about-four__content>p {
@@ -5660,16 +5660,6 @@ a:focus {
 .venue-one__top>p {
 	margin: 0;
 	margin-top: 55px;
-}
-
-.venue-one .row.high-gutter {
-	margin-left: -52px;
-	margin-right: -52px;
-}
-
-.venue-one .row.high-gutter>[class*=col-] {
-	padding-left: 52px;
-	padding-right: 52px;
 }
 
 .venue-one__single {
