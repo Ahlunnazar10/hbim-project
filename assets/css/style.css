@@ -138,7 +138,7 @@ a:focus {
 	-ms-user-select: none;
 	user-select: none;
 	pointer-events: none;
-	z-index: 15000;
+	z-index: 20000;
 	-webkit-transform: scale(1);
 	transform: scale(1);
 	visibility: hidden;
@@ -179,7 +179,7 @@ a:focus {
 	-ms-user-select: none;
 	user-select: none;
 	pointer-events: none;
-	z-index: 15000;
+	z-index: 20000;
 	visibility: hidden;
 }
 
@@ -1132,8 +1132,8 @@ a:focus {
 .banner-carousel .active .slide-item .image-layer {
 	-webkit-animation-name: slideBgImage;
 	        animation-name: slideBgImage;
-	-webkit-animation-duration: 15000ms;
-	        animation-duration: 15000ms;
+	-webkit-animation-duration: 20000ms;
+	        animation-duration: 20000ms;
 	-webkit-animation-iteration-count: infinite;
 	        animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
